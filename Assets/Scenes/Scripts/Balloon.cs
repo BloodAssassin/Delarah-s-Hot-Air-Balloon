@@ -45,7 +45,7 @@ public class Balloon : MonoBehaviour
             Gas(false);
         }
 
-        print(rb.velocity.y);
+        //print(rb.velocity.y);
     }
 
     private void FixedUpdate()
